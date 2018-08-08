@@ -1,0 +1,9 @@
+﻿  ballSimulation.cpp
+d:\ruturaj\the_c++_project\ballsimulation\ballsimulation\ballsimulation\constants.h(6): warning C4305: 'initializing': truncation from 'double' to 'const float'
+d:\ruturaj\the_c++_project\ballsimulation\ballsimulation\ballsimulation\ballsimulation.cpp(24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\ruturaj\the_c++_project\ballsimulation\ballsimulation\ballsimulation\ballsimulation.cpp(25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\ruturaj\the_c++_project\ballsimulation\ballsimulation\ballsimulation\ballsimulation.cpp(26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\ruturaj\the_c++_project\ballsimulation\ballsimulation\ballsimulation\ballsimulation.cpp(27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\ruturaj\the_c++_project\ballsimulation\ballsimulation\ballsimulation\ballsimulation.cpp(28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\ruturaj\the_c++_project\ballsimulation\ballsimulation\ballsimulation\ballsimulation.cpp(29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  ballSimulation.vcxproj -> D:\ruturaj\the_c++_project\ballSimulation\ballSimulation\Debug\ballSimulation.exe
