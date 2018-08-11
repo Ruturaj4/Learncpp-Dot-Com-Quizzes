@@ -51,6 +51,6 @@
   </body>
   <footer>
     <h2>Licence</h2>
-  <a href = "https://github.com/Ruturaj4/Learncpp-Dot-Com-Quizzes/blob/master/LICENSE" MIT </a>
+  <a href = "https://github.com/Ruturaj4/Learncpp-Dot-Com-Quizzes/blob/master/LICENSE"> MIT </a>
   </footer>
 </html>
