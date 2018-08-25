@@ -1,4 +1,0 @@
-﻿  primeNumber.cpp
-d:\ruturaj\the_c++_project\primenumber\primenumber\primenumber\primenumber.cpp(24): warning C4305: 'initializing': truncation from 'int' to 'char'
-d:\ruturaj\the_c++_project\primenumber\primenumber\primenumber\primenumber.cpp(24): warning C4309: 'initializing': truncation of constant value
-  primeNumber.vcxproj -> D:\ruturaj\the_c++_project\primeNumber\primeNumber\Debug\primeNumber.exe

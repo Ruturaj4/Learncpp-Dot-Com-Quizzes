@@ -1,3 +1,0 @@
-﻿  switchAnimalLegs.cpp
-d:\ruturaj\c++.comtutorials\chapter5\switchanimallegs\switchanimallegs\switchanimallegs.cpp(37): warning C4715: 'getAnimalName': not all control paths return a value
-  switchAnimalLegs.vcxproj -> D:\ruturaj\c++.comTutorials\chapter5\switchAnimalLegs\Debug\switchAnimalLegs.exe

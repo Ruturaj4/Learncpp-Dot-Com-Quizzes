@@ -1,3 +1,0 @@
-﻿  structMonster.cpp
-d:\ruturaj\c++.comtutorials\chapter4\structmonster\structmonster\structmonster.cpp(36): warning C4715: 'getMonsterType': not all control paths return a value
-  structMonster.vcxproj -> D:\ruturaj\c++.comTutorials\chapter4\structMonster\Debug\structMonster.exe

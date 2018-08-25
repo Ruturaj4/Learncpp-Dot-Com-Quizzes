@@ -1,3 +1,0 @@
-﻿  hiLoGame.cpp
-d:\ruturaj\learncpp.comtutorials\chapter5\hilogame\hilogame\hilogame.cpp(62): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  hiLoGame.vcxproj -> D:\ruturaj\learncpp.comTutorials\chapter5\hiLoGame\Debug\hiLoGame.exe
