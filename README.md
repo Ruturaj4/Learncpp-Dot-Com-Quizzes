@@ -34,8 +34,9 @@
       <ul><li>'Control Flow'</li></ul>
       <li><b>Chapter 6</b><a href = "https://github.com/Ruturaj4/Learncpp-Dot-Com-Quizzes/tree/master/chapter6"> ✅</a></li>
       <ul><li>'Arrays, Strings, Pointers, Reference'</li></ul>
-      <li><b>Chapter 7</b> 🚧</li>
-      <li>Chapter 8 💤</li>
+      <li><b>Chapter 7</b><a href = "https://github.com/Ruturaj4/Learncpp-Dot-Com-Quizzes/tree/master/chapter7"> ✅</a></li>
+      <ul><li>'Functions'</li></ul>
+      <li><b>Chapter 8</b> 🚧</li>
       <li>Chapter 9 💤</li>
       <li>Chapter 10 💤</li>
       <li>Chapter 11 💤</li>
