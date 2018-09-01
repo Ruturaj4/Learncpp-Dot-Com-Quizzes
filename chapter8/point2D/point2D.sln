@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "point2D", "point2D\point2D.vcxproj", "{F4B35C0C-18F9-4D46-A396-DB22F4E25F75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4B35C0C-18F9-4D46-A396-DB22F4E25F75}.Debug|x64.ActiveCfg = Debug|x64
+		{F4B35C0C-18F9-4D46-A396-DB22F4E25F75}.Debug|x64.Build.0 = Debug|x64
+		{F4B35C0C-18F9-4D46-A396-DB22F4E25F75}.Debug|x86.ActiveCfg = Debug|Win32
+		{F4B35C0C-18F9-4D46-A396-DB22F4E25F75}.Debug|x86.Build.0 = Debug|Win32
+		{F4B35C0C-18F9-4D46-A396-DB22F4E25F75}.Release|x64.ActiveCfg = Release|x64
+		{F4B35C0C-18F9-4D46-A396-DB22F4E25F75}.Release|x64.Build.0 = Release|x64
+		{F4B35C0C-18F9-4D46-A396-DB22F4E25F75}.Release|x86.ActiveCfg = Release|Win32
+		{F4B35C0C-18F9-4D46-A396-DB22F4E25F75}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7148DAD0-3081-4F67-AAF3-5894CCB88630}
+	EndGlobalSection
+EndGlobal
