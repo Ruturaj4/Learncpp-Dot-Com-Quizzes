@@ -2,7 +2,7 @@
 <html>
   <Header>
     <h1>
-      Learncpp-Dot-Com-Quizzes 🚧
+      Learncpp-Dot-Com Programs/Quizzes 🚧
     </h1>
     <p>
      This repository contains solved quizzes and some other examples given on
