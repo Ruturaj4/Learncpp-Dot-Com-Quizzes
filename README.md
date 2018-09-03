@@ -13,7 +13,7 @@
     <h2>Table of Contents</h2>
     <ul>
       <li><b>Chapters 1 and 2</b><a href = "https://github.com/Ruturaj4/Learncpp-Dot-Com-Quizzes/tree/master/chapters1-2"> ✅</a></li>
-      'C++ Basics' and 'Variable and Fundamental Data types'
+      <p>'C++ Basics' and 'Variable and Fundamental Data types'</p>
       <ul>
         <li>Hello World</li>
         <li>cin and cout</li>
@@ -27,9 +27,21 @@
         <li>Chapter1 Quiz</li>
       </ul>
       <li><b>Chapter 3</b><a href = "https://github.com/Ruturaj4/Learncpp-Dot-Com-Quizzes/tree/master/chapter3"> ✅</a></li>
-      <ul><li>'Operators'</li></ul>
+      <p>'Operators'</p>
+      <ul>
+        <li>Using Modulus</li>
+        <li>Even or Odd</li>
+        <li>Decimal to Binary Converter</li>
+      </ul>
       <li><b>Chapter 4</b><a href = "https://github.com/Ruturaj4/Learncpp-Dot-Com-Quizzes/tree/master/chapter4"> ✅</a></li>
-      <ul><li>'Variable Scope and More Types'</li></ul>
+      <p>'Variable Scope and More Types'</p>
+      <ul>
+        <li>Variable Scope</li>
+        <li>Playing with Strings</li>
+        <li>Using Struct - Fraction</li>
+        <li>Using Struct - Advertising</li>
+        <li>Using Struct - Monsters</li>
+      </ul>
       <li><b>Chapter 5</b><a href = "https://github.com/Ruturaj4/Learncpp-Dot-Com-Quizzes/tree/master/chapter5"> ✅</a></li>
       <ul><li>'Control Flow'</li></ul>
       <li><b>Chapter 6</b><a href = "https://github.com/Ruturaj4/Learncpp-Dot-Com-Quizzes/tree/master/chapter6"> ✅</a></li>
