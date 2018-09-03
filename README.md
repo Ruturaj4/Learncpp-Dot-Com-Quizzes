@@ -24,14 +24,14 @@
         <li>Multiple files</li>
         <li>Header Guards</li>
         <li>Ball simulation</li>
-        <li>Chapter1 Quiz</li>
+        <li>Chapter1 Quiz</li></br>
       </ul>
       <li><b>Chapter 3</b><a href = "https://github.com/Ruturaj4/Learncpp-Dot-Com-Quizzes/tree/master/chapter3"> ✅</a></li>
       <p>'Operators'</p>
       <ul>
         <li>Using Modulus</li>
         <li>Even or Odd</li>
-        <li>Decimal to Binary Converter</li>
+        <li>Decimal to Binary Converter</li></br>
       </ul>
       <li><b>Chapter 4</b><a href = "https://github.com/Ruturaj4/Learncpp-Dot-Com-Quizzes/tree/master/chapter4"> ✅</a></li>
       <p>'Variable Scope and More Types'</p>
@@ -40,7 +40,7 @@
         <li>Playing with Strings</li>
         <li>Using Struct - Fraction</li>
         <li>Using Struct - Advertising</li>
-        <li>Using Struct - Monsters</li>
+        <li>Using Struct - Monsters</li></br>
       </ul>
       <li><b>Chapter 5</b><a href = "https://github.com/Ruturaj4/Learncpp-Dot-Com-Quizzes/tree/master/chapter5"> ✅</a></li>
       <ul><li>'Control Flow'</li></ul>
