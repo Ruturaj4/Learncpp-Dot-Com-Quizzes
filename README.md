@@ -43,9 +43,35 @@
         <li>Using Struct - Monsters</li></br>
       </ul>
       <li><b>Chapter 5</b><a href = "https://github.com/Ruturaj4/Learncpp-Dot-Com-Quizzes/tree/master/chapter5"> ✅</a></li>
-      <ul><li>'Control Flow'</li></ul>
+      <p>'Control Flow'</p>
+      <ul>
+        <li>While Loop</li>
+        <li>While Loop - 2</li>
+        <li>While Loop - 3</li>
+        <li>Switch - Animal Legs</li>
+        <li>Switch - Calculator</li>
+        <li>Ball Game Again</li>
+        <li>HI-LO game</li></br>
+      </ul>
       <li><b>Chapter 6</b><a href = "https://github.com/Ruturaj4/Learncpp-Dot-Com-Quizzes/tree/master/chapter6"> ✅</a></li>
-      <ul><li>'Arrays, Strings, Pointers, Reference'</li></ul>
+      <p>'Arrays, Strings, Pointers, Reference'</p>
+      <ul>
+        <li>Array One</li>
+        <li>Array Two</li>
+        <li>Multidimentional Arrays</li>
+        <li>Descending Sort</li>
+        <li>For-Each</li>
+        <li>Simple Game</li>
+        <li>Unoptimized BUbble Sort</li>
+        <li>Optimized BUbble Sort</li>
+        <li>Pointers One</li>
+        <li>Student grades</li>
+        <li>Ref Swap</li>
+        <li>Array Pointers</li>
+        <li>C-Style Pointers</li>
+        <li>Card Game</li>
+        <li>Black Jack</li></br>
+      </ul>
       <li><b>Chapter 7</b><a href = "https://github.com/Ruturaj4/Learncpp-Dot-Com-Quizzes/tree/master/chapter7"> ✅</a></li>
       <ul><li>'Functions'</li></ul>
       <li><b>Chapter 8</b><a href = "https://github.com/Ruturaj4/Learncpp-Dot-Com-Quizzes/tree/master/chapter8"> ✅</a></li>
