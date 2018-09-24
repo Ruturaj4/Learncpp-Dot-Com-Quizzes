@@ -76,7 +76,7 @@
       <ul><li>'Functions'</li></ul>
       <li><b>Chapter 8</b><a href = "https://github.com/Ruturaj4/Learncpp-Dot-Com-Quizzes/tree/master/chapter8"> ✅</a></li>
       <ul><li>'Basic object-oriented programming'</li></ul>
-      <li><b>Chapter 9</b> 🚧</li>
+      <li><b>Chapter 9</b> 🚧</li> //<a href = "https://github.com/Ruturaj4/Learncpp-Dot-Com-Quizzes/tree/master/chapter8"> ✅</a>
       <li>Chapter 10 💤</li>
       <li>Chapter 11 💤</li>
       <li>Chapter 12 💤</li>
