@@ -11,6 +11,7 @@
   </header>
   <body>
     <h2>Table of Contents</h2>
+    <p>Featured program - Commandline BlackJack - https://github.com/Ruturaj4/Learncpp-Dot-Com-Quizzes/tree/master/chapter6/blackjack</p>
     <ul>
       <li><b>Chapters 1 and 2</b><a href = "https://github.com/Ruturaj4/Learncpp-Dot-Com-Quizzes/tree/master/chapters1-2"> ✅</a></li>
       <p>'C++ Basics' and 'Variable and Fundamental Data types'</p>
@@ -87,7 +88,6 @@
       <li>Chapter 17 💤</li>
       <li>Chapter 18 💤</li>
     </ul>
-    Featured program - Commandline BlackJack - https://github.com/Ruturaj4/Learncpp-Dot-Com-Quizzes/tree/master/chapter6/blackjack
   </body>
   <footer>
     <h2>Licence</h2>
