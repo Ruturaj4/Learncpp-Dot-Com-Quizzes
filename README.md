@@ -77,7 +77,8 @@
       <ul><li>'Functions'</li></ul>
       <li><b>Chapter 8</b><a href = "https://github.com/Ruturaj4/Learncpp-Dot-Com-Quizzes/tree/master/chapter8"> ✅</a></li>
       <ul><li>'Basic object-oriented programming'</li></ul>
-      <li><b>Chapter 9</b> 🚧</li> //<a href = "https://github.com/Ruturaj4/Learncpp-Dot-Com-Quizzes/tree/master/chapter8"> ✅</a>
+      <li><b>Chapter 9</b> 🚧</li><a href = "https://github.com/Ruturaj4/Learncpp-Dot-Com-Quizzes/tree/master/chapter9"> ✅</a>
+      <ul><li>'Operator Overloading'</ul></li>
       <li>Chapter 10 💤</li>
       <li>Chapter 11 💤</li>
       <li>Chapter 12 💤</li>
