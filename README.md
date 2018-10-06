@@ -90,7 +90,21 @@
         <li>Sum of the digits</li></br>
       </ul>
       <li><b>Chapter 8</b><a href = "https://github.com/Ruturaj4/Learncpp-Dot-Com-Quizzes/tree/master/chapter8"> ✅</a></li>
-      <ul><li>'Basic object-oriented programming'</li></ul>
+      <p>'Basic object-oriented programming'</p>
+      <ul>
+        <li>Classes introduction</li>
+        <li>Classes introduction - 2</li>
+        <li>Monster generator</li>
+        <li>Blackjack using classes</li>
+        <li>Class constructor</li>
+        <li>Destructor class</li>
+        <li>Friend function</li>
+        <li>Member variables</li>
+        <li>Point - 2D</li>
+        <li>Simple stack using class</li>
+        <li>Static member variables</li>
+        <li>Vector friend</li></br>
+      </ul>
       <li><b>Chapter 9</b> 🚧<a href = "https://github.com/Ruturaj4/Learncpp-Dot-Com-Quizzes/tree/master/chapter9"> ✅</a></li>
       <ul><li>'Operator Overloading'</ul></li>
       <li>Chapter 10 💤</li>
