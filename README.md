@@ -74,7 +74,21 @@
         <li>Black Jack</li></br>
       </ul>
       <li><b>Chapter 7</b><a href = "https://github.com/Ruturaj4/Learncpp-Dot-Com-Quizzes/tree/master/chapter7"> ✅</a></li>
-      <ul><li>'Functions'</li></ul>
+      <p>'Functions'</p>
+      <ul>
+        <li>Binary search</li>
+        <li>Calculator function pointer</li>
+        <li>Commandline arguments</li>
+        <li>Ellipses</li>
+        <li>Function prototypes</li>
+        <li>Fibonacci series</li>
+        <li>Interger to Binary</li>
+        <li>Recursive binary search</li>
+        <li>Recursive fibonacci series</li>
+        <li>Recursive factorial</li>
+        <li>Returning values</li>
+        <li>Sum of the digits</li></br>
+      </ul>
       <li><b>Chapter 8</b><a href = "https://github.com/Ruturaj4/Learncpp-Dot-Com-Quizzes/tree/master/chapter8"> ✅</a></li>
       <ul><li>'Basic object-oriented programming'</li></ul>
       <li><b>Chapter 9</b> 🚧<a href = "https://github.com/Ruturaj4/Learncpp-Dot-Com-Quizzes/tree/master/chapter9"> ✅</a></li>
